@@ -1,1 +1,1 @@
-Jika ingin mengextract, hanya menggunakan Part 1.rar saja
+Aplikasi My Story merupakan aplkasi yang dibuat untuk catatan atau kegiatan seseorang yang ingin di abadikan atau dicatat, dengan kata lain aplikasi ini sebagai pengganti buku catatan/diary. Aplikasi My Story memiliki kelebihan yang tidak dimiliki oleh buku diary, salah satunya dapat mengunggah foto kegiatan seseorang kedalam aplikasi ini, Aplikasi ini dibangun menggunakan database cloud run dan mengkoneksikannya menggunakan API.
